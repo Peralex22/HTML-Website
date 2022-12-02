@@ -1,0 +1,23 @@
+
+#menu{
+	width:50%;/*anchura*/	
+	margin-left:600px;/*flotar*/
+}
+#menu ul li{
+	border:1px solid black;
+	width:140px;/*anchra*/
+	float:right;/*alinear horizontal*/
+	list-style:none;/*sirve para quitar el punto a los li*/
+	font-size:20px;
+}
+#menu li a{
+	text-decoration:none;/*quitar subrayado*/
+}
+#menu ul li a{
+	color:black;
+}
+#formulario{
+	height:300px;
+	width:800px;
+	margin-top:50px;
+}

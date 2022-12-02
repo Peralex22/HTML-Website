@@ -1,0 +1,35 @@
+h1{
+	font-size:40px;
+}
+.informacion{
+	margin-left:20px;
+	margin-top:50px;
+}
+#menu{
+	/*background-color:red;/*color de fondo*/
+	width:50%;/*anchura*/	
+	margin-left:170px;/*flotar*/
+}
+#menu ul li{
+	border:1px solid black;
+	width:140px;/*anchra*/
+	float:right;/*alinear horizontal*/
+	list-style:none;/*sirve para quitar el punto a los li*/
+	font-size:20px;
+}
+#menu li a{
+	text-decoration:none;/*quitar subrayado*/
+}
+#menu ul li a{
+	color:black;
+}
+.tigre{
+	float:left;
+	margin:25px;
+}
+#texto1{
+	margin:35px;
+	font-family:Arial;
+	height:180px;
+	width:700px;
+}
